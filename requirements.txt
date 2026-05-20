@@ -1,0 +1,10 @@
+langchain
+streamlit
+google-genai
+python-dotenv
+langchain-ollama
+langchain-groq
+langchain-community
+pypdf
+langchain-text-splitters
+langchain-chroma
